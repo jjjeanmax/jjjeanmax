@@ -1,16 +1,26 @@
-### Hi there 👋
+<img align="right" src="" alt="Dark image of ferns" width=450px />
 
-<!--
-**jjjeanmax/jjjeanmax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## README
+Hey there, I see you stumbled into this page, well awesome, go check it out, it's pretty darn interesting, see if you find anything interesting, or anything incomplete, pull some stuff, clone some stuff, add some, delete some, go wild!!
 
-Here are some ideas to get you started:
+## Who am I ?
+*Known to scan vulnerabilities and to prevent cyber attacks or mitigate their impact*
+### Long answer
+- Coder, Programmer, Pentester, Backender, Cybersecurity Craziest 💀
+- Hacking Lover, Football Player, Video Gamer 👾
+- Friendly, Jack of All(Kinda..🥸) 🦕
+- Human, Identified by the people around him as **Jean Maxime**
+- Someone from a country of a big (big nahh, massive) black population 👨🏾.
+### Short answer
+```json
+{
+  "identification": "Jean Maxime",
+  "country": "Russian",
+  "species": "Homo sapiens (Human)",
+  "tasks": {
+      "find": ["Purpose", "Friends", "Life"],
+  }
+}
+```
+## With me so far ?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
