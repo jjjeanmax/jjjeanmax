@@ -22,5 +22,3 @@ Hey there, I see you stumbled into this page, well awesome, go check it out, it'
   }
 }
 ```
-## With me so far ?
-
