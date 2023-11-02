@@ -1,6 +1,6 @@
 
 
-<img align="right" src="https://github.com/jjjeanmax/jjjeanmax/blob/main/img.jpg" alt="Dark image of ferns" width=400px height=550px />
+<img align="right" src="https://github.com/jjjeanmax/jjjeanmax/blob/main/img.jpg" alt="Dark image of ferns" width=400px height=500px />
 
 ## README
 Hey there, I see you stumbled into this page, well awesome, go check it out, it's pretty darn interesting, see if you find anything interesting, or anything incomplete, pull some stuff, clone some stuff, add some, delete some, go wild!!
@@ -13,6 +13,7 @@ Hey there, I see you stumbled into this page, well awesome, go check it out, it'
 - Friendly, Jack of All(Kinda..🥸) 🦕
 - Human, Identified by the people around him as **Jean Maxime**
 - Someone from a country of a big (big nahh, massive) black population 👨🏾.
+  
 ### Short answer
 ```json
 {
