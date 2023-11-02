@@ -18,7 +18,7 @@ Hey there, I see you stumbled into this page, well awesome, go check it out, it'
 ```json
 {
   "SUID": "Jean Maxime",
-  "country": "Russian",
+  "country": "Russia",
   "species": "Homo sapiens (Human)",
   "tasks": {
       "find": ["Purpose", "Friends", "Life"],
