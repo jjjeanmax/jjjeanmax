@@ -1,6 +1,6 @@
 
 
-<img align="right" src="https://github.com/jjjeanmax/jjjeanmax/blob/main/img.jpg" alt="Dark image of ferns" width=400px height=500px />
+<img align="right" src="https://github.com/jjjeanmax/jjjeanmax/blob/main/img.jpg" alt="Dark image of ferns" width=350px height=500px />
 
 ## README
 Hey there, I see you stumbled into this page, well awesome, go check it out, it's pretty darn interesting, see if you find anything interesting, or anything incomplete, pull some stuff, clone some stuff, add some, delete some, go wild!!
