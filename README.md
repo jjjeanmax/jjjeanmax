@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/jjjeanmax/jjjeanmax/blob/main/img.jpg" alt="Dark image of ferns" width=450px />
+<img align="right" src="https://github.com/jjjeanmax/jjjeanmax/blob/main/img.jpg" alt="Dark image of ferns" width=350px height=500px />
 
 ## README
 Hey there, I see you stumbled into this page, well awesome, go check it out, it's pretty darn interesting, see if you find anything interesting, or anything incomplete, pull some stuff, clone some stuff, add some, delete some, go wild!!
@@ -14,7 +14,7 @@ Hey there, I see you stumbled into this page, well awesome, go check it out, it'
 ### Short answer
 ```json
 {
-  "identification": "Jean Maxime",
+  "SUID": "Jean Maxime",
   "country": "Russian",
   "species": "Homo sapiens (Human)",
   "tasks": {
@@ -22,3 +22,5 @@ Hey there, I see you stumbled into this page, well awesome, go check it out, it'
   }
 }
 ```
+
+> Умный человек не тот, кто много знает, а тот, кто знает где искать.
