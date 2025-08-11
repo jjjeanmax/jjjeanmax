@@ -22,7 +22,7 @@ Hey there, I see you stumbled into this page, well awesome, go check it out, it'
   "species": "Homo sapiens (Human)",
   "certificates": "OSWE, EWPTXv2, CWEE, Security Analysis of web Projects by mail.ru",
   "tasks": {
-      "find": ["Purpose", "Friends", "Life"],
+      "find": ["Purpose", "Friends", "Life", "Hacking", "BugBounty"],
   }
 }
 ```
