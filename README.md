@@ -8,7 +8,7 @@ Hey there, I see you stumbled into this page, well awesome, go check it out, it'
 ## Who am I ?
 *Known to scan vulnerabilities and to prevent cyber attacks or mitigate their impact*
 ### Long answer
-- Coder, Programmer, Pentester, Backender, Cybersecurity Craziest 💀
+- Coder, Programmer, Pentester, Backender, BugHunter, Cybersecurity Craziest 💀
 - Hacking Lover, Football Player, Video Gamer 👾
 - Friendly, Jack of All(Kinda..🥸) 🦕
 - Human, Identified by the people around him as **Jean Maxime**
@@ -20,6 +20,7 @@ Hey there, I see you stumbled into this page, well awesome, go check it out, it'
   "SUID": "Jean Maxime",
   "country": "Russia",
   "species": "Homo sapiens (Human)",
+  "certificates": "OSWE, EWPTXv2, CWEE, Security Analysis of web Projects by mail.ru",
   "tasks": {
       "find": ["Purpose", "Friends", "Life"],
   }
