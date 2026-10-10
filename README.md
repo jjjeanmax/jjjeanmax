@@ -26,7 +26,9 @@
 }
 ```
 
-## 🏆 Standoff Hacks — July 2026
+## 🏆 Competition highlights
+
+### Standoff Hacks — July 2026
 
 > **1st place · Best Hacker** at **Standoff Hacks**, a Russian bug-bounty competition.
 
@@ -48,6 +50,29 @@
   <summary><b>Open the competition scoreboard</b></summary>
   <br />
   <img src="assets/standoff-hacks-july-2026-scoreboard.png" alt="Standoff Hacks July 2026 scoreboard showing Prizrak in first place" width="100%" />
+</details>
+
+### Standoff Hacks Kuala Lumpur — September 2026
+
+> **#4** in the Standoff Hacks Kuala Lumpur international leaderboard.
+
+| Event scorecard | Result |
+| :-- | --: |
+| Place | **#4** |
+| Accepted reports | **11** |
+| Submitted reports | **26** |
+| Duplicates | **6** |
+| Score | **37,800** |
+| Special recognition | **Ozon Triage Team’s Choice — +100,000 RUB toward the next valid report** |
+
+<p align="center">
+  <a href="assets/standoff-hacks-kuala-lumpur-2026-scoreboard.png"><img src="assets/standoff-hacks-kuala-lumpur-2026-scoreboard.png" alt="Standoff Hacks Kuala Lumpur 2026 scoreboard showing Prizrak in fourth place" width="100%" /></a>
+</p>
+
+<details>
+  <summary><b>Open the Ozon triage team announcement</b></summary>
+  <br />
+  <img src="assets/standoff-hacks-kuala-lumpur-2026-ozon-award.png" alt="Ozon triage team announcement recognizing Prizrak" width="520" />
 </details>
 
 ## Research profile
